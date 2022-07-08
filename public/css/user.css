@@ -1,0 +1,48 @@
+.pt-110{
+    padding-top: 110px;
+}
+
+.btn-app-secondary{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 14px 32px;
+    border-radius: 4px;
+    transition: 0.5s;
+    line-height: 1;
+    color: #fff;
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    background: #0b2341;
+    margin-top: 15px;
+}
+
+.btn-app-secondary:hover{
+    color: #fff;
+    background: #1f4d85;
+}
+
+.btn-outline-app{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 14px 32px;
+    border-radius: 4px;
+    transition: 0.5s;
+    line-height: 1;
+    color: #0b2341;
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+    background: #fff;
+    border: 2px solid #0b2341;
+    margin-top: 15px;
+}
+
+.btn-outline-app:hover{
+    color: #fff;
+    background: #0b2341;
+}
